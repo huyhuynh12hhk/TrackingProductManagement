@@ -1,0 +1,1 @@
+const List<String> FollowTypes = ['partner', 'unfollow', 'follow', 'customer'];

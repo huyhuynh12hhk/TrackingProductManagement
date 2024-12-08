@@ -1,0 +1,51 @@
+{
+  "data": {
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiQWRtaW4gU3lzdGVtIDAxIiwianRpIjoiYzYwZjk4NTUtNDVhZC00YTAxLTgzZjQtYzllY2EyOGFkMGM2IiwiZW1haWwiOiJhZG1pbjAxQGdtYWlsLmNvbSIsInVzZXJJZCI6ImI2N2VhOTg2LTJmMzQtNDIzNC1hZDU5LTRhNjZjOWVkMTU0OCIsImV4cCI6MTczMDU5NDA3NywiaXNzIjoiUFRNUyJ9.QfOVifB3nizfudtIsYjPd1jUc3_G0hsv_aJmkhcTdEo",
+    "fullName": "Admin System 01",
+    "email": "admin01@gmail.com",
+    "avatar": "",
+    "backgroundImage": ""
+  },
+  "isSuccess": true,
+  "errorMessage": ""
+}
+
+
+{
+  "id": "fdeafeda-c730-4740-9dd9-8fa68c89a670",
+  "name": "Cake Coffe",
+  "description": "",
+  "supplier": {
+    "id": "57e60e42-5363-479c-b5e5-61363772dc97",
+    "token": null,
+    "fullName": null,
+    "email": null,
+    "avatarImage": null,
+    "backgroundImage": null
+  },
+  "avatar": ""
+}
+
+
+{
+  "id": "fdeafeda-c730-4740-9dd9-8fa68c89a670",
+  "name": "Cake Coffe",
+  "price": 300,
+  "discount": 0,
+  "description": "",
+  "galleryPaths": [
+    ""
+  ],
+  "supplier": {
+    "id": "57e60e42-5363-479c-b5e5-61363772dc97",
+    "token": null,
+    "fullName": "Admin System 01",
+    "email": "admin01@gmail.com",
+    "avatarImage": "",
+    "backgroundImage": ""
+  },
+  "origins": [],
+  "products": []
+}
+
+{"data":[{"id":"88892664-9734-47b7-8145-193041acf321","content":"Admin System 01 has add a product Org. Rice 01.","author":{"id":"57e60e42-5363-479c-b5e5-61363772dc97","token":null,"fullName":"Admin System 01","email":"admin01@gmail.com","avatarImage":"","backgroundImage":""},"attachmentPaths":[""]}],"isSuccess":true,"errorMessage":""}
