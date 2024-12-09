@@ -57,3 +57,7 @@ class MyHttpOverrides extends HttpOverrides {
           (X509Certificate cert, String host, int port) => true;
   }
 }
+
+
+// https://stackoverflow.com/questions/49695393/how-to-build-apk-create-old-version-app-in-flutter
+// https://stackoverflow.com/questions/69033022/message-error-resource-androidattr-lstar-not-found?page=1&tab=scoredesc#tab-top
